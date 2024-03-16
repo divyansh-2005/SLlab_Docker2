@@ -39,6 +39,7 @@ curl http://localhost
 
 # docs.docker.com
 # hub.docker.com
+## https://hub.docker.com/_/nginx
 
 ## To remove all container 
 docker rm -f nginx <container Id starting 4-5 digits whith space after each id>
