@@ -36,5 +36,8 @@ docker ps
 docker exec -it nginx bash
 cat /etc/os-release
 curl http://localhost
-docs.docker.com
+# docs.docker.com
+
+## To remove all container 
+docker rm -f nginx <container Id starting 4-5 digits whith space after each id>
 
